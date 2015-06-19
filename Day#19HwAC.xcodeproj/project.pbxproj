@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A7252B611B343CE600909BD2 /* TableViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = A7252B601B343CE600909BD2 /* TableViewController2.m */; };
+		A7252B6A1B344A8A00909BD2 /* sean_TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7252B691B344A8A00909BD2 /* sean_TableViewController.m */; };
+		A7252B6D1B344C1500909BD2 /* sean_view_TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7252B6C1B344C1500909BD2 /* sean_view_TableViewController.m */; };
+		A7252B701B344F9800909BD2 /* sean2_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7252B6F1B344F9800909BD2 /* sean2_ViewController.m */; };
 		A728F74D1B3066D2004C7B85 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A728F74C1B3066D2004C7B85 /* main.m */; };
 		A728F7501B3066D2004C7B85 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A728F74F1B3066D2004C7B85 /* AppDelegate.m */; };
 		A728F7531B3066D2004C7B85 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A728F7521B3066D2004C7B85 /* ViewController.m */; };
@@ -28,6 +32,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A7252B5F1B343CE600909BD2 /* TableViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController2.h; sourceTree = "<group>"; };
+		A7252B601B343CE600909BD2 /* TableViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController2.m; sourceTree = "<group>"; };
+		A7252B681B344A8A00909BD2 /* sean_TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sean_TableViewController.h; sourceTree = "<group>"; };
+		A7252B691B344A8A00909BD2 /* sean_TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sean_TableViewController.m; sourceTree = "<group>"; };
+		A7252B6B1B344C1500909BD2 /* sean_view_TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sean_view_TableViewController.h; sourceTree = "<group>"; };
+		A7252B6C1B344C1500909BD2 /* sean_view_TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sean_view_TableViewController.m; sourceTree = "<group>"; };
+		A7252B6E1B344F9800909BD2 /* sean2_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sean2_ViewController.h; sourceTree = "<group>"; };
+		A7252B6F1B344F9800909BD2 /* sean2_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sean2_ViewController.m; sourceTree = "<group>"; };
 		A728F7471B3066D2004C7B85 /* Day#19HwAC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Day#19HwAC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A728F74B1B3066D2004C7B85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A728F74C1B3066D2004C7B85 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -89,11 +101,19 @@
 				A728F7511B3066D2004C7B85 /* ViewController.h */,
 				A728F7521B3066D2004C7B85 /* ViewController.m */,
 				A728F7541B3066D2004C7B85 /* Main.storyboard */,
+				A7252B6E1B344F9800909BD2 /* sean2_ViewController.h */,
+				A7252B6F1B344F9800909BD2 /* sean2_ViewController.m */,
+				A7252B6B1B344C1500909BD2 /* sean_view_TableViewController.h */,
+				A7252B6C1B344C1500909BD2 /* sean_view_TableViewController.m */,
 				A728F7571B3066D2004C7B85 /* Images.xcassets */,
 				A728F7591B3066D2004C7B85 /* LaunchScreen.xib */,
 				A728F74A1B3066D2004C7B85 /* Supporting Files */,
 				A728F7731B307A91004C7B85 /* ViewController2.h */,
 				A728F7741B307A91004C7B85 /* ViewController2.m */,
+				A7252B5F1B343CE600909BD2 /* TableViewController2.h */,
+				A7252B601B343CE600909BD2 /* TableViewController2.m */,
+				A7252B681B344A8A00909BD2 /* sean_TableViewController.h */,
+				A7252B691B344A8A00909BD2 /* sean_TableViewController.m */,
 			);
 			path = "Day#19HwAC";
 			sourceTree = "<group>";
@@ -224,9 +244,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7252B701B344F9800909BD2 /* sean2_ViewController.m in Sources */,
 				A728F7531B3066D2004C7B85 /* ViewController.m in Sources */,
 				A728F7751B307A91004C7B85 /* ViewController2.m in Sources */,
+				A7252B6A1B344A8A00909BD2 /* sean_TableViewController.m in Sources */,
+				A7252B6D1B344C1500909BD2 /* sean_view_TableViewController.m in Sources */,
 				A728F7501B3066D2004C7B85 /* AppDelegate.m in Sources */,
+				A7252B611B343CE600909BD2 /* TableViewController2.m in Sources */,
 				A728F74D1B3066D2004C7B85 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +448,7 @@
 				A728F76C1B3066D2004C7B85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A728F76D1B3066D2004C7B85 /* Build configuration list for PBXNativeTarget "Day#19HwACTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +457,7 @@
 				A728F76F1B3066D2004C7B85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

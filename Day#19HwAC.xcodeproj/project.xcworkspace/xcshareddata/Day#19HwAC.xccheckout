@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C739AE5-051E-42E0-A9AE-62AA8E848F62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Day#19HwAC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F79737649AF1DF28CC7FD92BEA839A624695F913</key>
+		<string>github.com:evantsaip/Day-19AC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Day#19HwAC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F79737649AF1DF28CC7FD92BEA839A624695F913</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:evantsaip/Day-19AC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F79737649AF1DF28CC7FD92BEA839A624695F913</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F79737649AF1DF28CC7FD92BEA839A624695F913</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day%2319HwAC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

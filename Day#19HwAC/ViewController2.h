@@ -8,13 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController2 : UIViewController
+@interface ViewController2 : UIViewController <UIGestureRecognizerDelegate>
 {
     NSDictionary *dict;
     NSArray *info;
     NSArray *imageArray;
     NSArray *name;
-    int count, i,indext1;
+    int count, i,indext1,indext2;
+    
 }
 @property (weak, nonatomic) IBOutlet UIImageView *image;
 @property (weak, nonatomic) IBOutlet UILabel *lable1;
