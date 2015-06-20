@@ -129,10 +129,10 @@
             </objects>
             <point key="canvasLocation" x="3632" y="604"/>
         </scene>
-        <!--SEAN-->
+        <!--ClassAC-->
         <scene sceneID="And-Ct-VLT">
             <objects>
-                <tableViewController id="3LM-BX-PiI" customClass="sean_TableViewController" sceneMemberID="viewController">
+                <tableViewController id="3LM-BX-PiI" customClass="classTableViewController" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="zjR-8F-zJg">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -150,7 +150,7 @@
                             <outlet property="delegate" destination="3LM-BX-PiI" id="FXf-hw-XM9"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="SEAN" id="xTS-1f-Mb9"/>
+                    <tabBarItem key="tabBarItem" title="ClassAC" id="xTS-1f-Mb9"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iCg-Ti-xdS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

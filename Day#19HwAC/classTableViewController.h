@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface sean_TableViewController : UITableViewController
+@interface classTableViewController : UITableViewController
 
     
 

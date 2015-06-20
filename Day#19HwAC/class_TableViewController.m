@@ -6,21 +6,21 @@
 //  Copyright (c) 2015 lalaleelala. All rights reserved.
 //
 
-#import "sean_TableViewController.h"
+#import "classTableViewController.h"
 
-@interface sean_TableViewController ()
+@interface classTableViewController ()
 {
     NSArray *arr;
 }
 @end
 
-@implementation sean_TableViewController
+@implementation classTableViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     
     
-    arr = @[@"1", @"2", @"3"];
+    arr = @[@"Pre-study Course", @"Week 1", @"Week 2",@"Week 3",@"Miscellaneous Topics",@"Week 4"];
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
     
